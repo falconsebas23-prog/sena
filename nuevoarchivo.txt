@@ -1,2 +1,2 @@
-nuevo texto para nuevoarchivo.txt sebastian falcon - cambio simulando conflicto
+nuevo texto para nuevoarchivo.txt CAMBIO DESDE MAIN
 prueba nueva funcionalidad
