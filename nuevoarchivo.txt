@@ -1,2 +1,2 @@
-nuevo texto para nuevoarchivo.txt CAMBIO DESDE MAIN
+nuevo texto para nuevoarchivo.txt CAMBIO DESDE MAIN Y NUEVA FUNCIONALIDAD COMBINADOS
 prueba nueva funcionalidad
